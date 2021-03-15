@@ -4,7 +4,7 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 0b8da00e51fc1d2f4559d778f109c34418f277b54486c637a3ba19eda533d0fa
+-- hash: 1e5ee1d842792b885b9b85adcd7b7b3a6a6b449a3b15e1fd4f13a5778b243e30
 
 name:           fpcomplete
 version:        0.1.0.0
@@ -27,6 +27,7 @@ source-repository head
 
 library
   exposed-modules:
+      AppliedHaskell
       Import
       Run
       Types
